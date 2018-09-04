@@ -1,0 +1,13 @@
+{
+    "name": "eduardo18delta/composer-1",
+    "description": "projeto composer-1 da segunda feira",
+    "authors": [
+        {
+            "name": "eduardo18delta",
+            "email": "eduardo18delta@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.4"
+    }
+}
