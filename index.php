@@ -10,7 +10,7 @@
 <div class="container">
 
 <div class="jumbotron">
-  <h2>Gerador de Qrcode</h2>
+  <h1>Gerador de Qrcode</h1>
 </div>
 
 <form action="qrcode.php" method="GET">
