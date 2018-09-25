@@ -17,9 +17,21 @@
 
 <div class="form-group">	
 <label>Insira um texto:</label>
-<input class="form-control" type="text" name="qrcode" required>
+<input class="form-control" type="text" name="qrcode" required="">
 </div>
+
+<div class="form-group">	
+<input class="form-control" type="text" name="dtnasc" required="">
+</div>
+
+<div class="form-group">	
+<input class="form-control" type="text" name="email" required="">
+</div>
+
+
+<div class="form-group">	
 <button class="btn btn-success" type="submit">Enviar</button>
+</div>
 
 </form>
 
