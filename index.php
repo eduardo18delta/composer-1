@@ -21,10 +21,12 @@
 </div>
 
 <div class="form-group">	
+<label>Insira uma data:</label>
 <input class="form-control" type="text" name="dtnasc" required="">
 </div>
 
 <div class="form-group">	
+<label>Insira um email:</label>	
 <input class="form-control" type="text" name="email" required="">
 </div>
 
